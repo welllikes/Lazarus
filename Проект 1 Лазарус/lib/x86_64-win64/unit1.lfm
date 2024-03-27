@@ -1,0 +1,51 @@
+object Form1: TForm1
+  Left = 839
+  Height = 367
+  Top = 168
+  Width = 487
+  Caption = 'Form1'
+  ClientHeight = 367
+  ClientWidth = 487
+  LCLVersion = '3.0.0.3'
+  object Label1: TLabel
+    Left = 74
+    Height = 29
+    Top = 35
+    Width = 349
+    Caption = 'Guess who made this project?'
+    Font.Color = 16732765
+    Font.Height = -25
+    Font.Style = [fsBold]
+    ParentFont = False
+    OnClick = Label1Click
+  end
+  object Button1: TButton
+    Left = 163
+    Height = 25
+    Top = 131
+    Width = 109
+    Caption = 'Click here!'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 0
+    OnClick = Button1Click
+  end
+  object Label2: TLabel
+    Left = 98
+    Height = 1
+    Top = 193
+    Width = 1
+  end
+  object Button2: TButton
+    Left = 344
+    Height = 38
+    Top = 272
+    Width = 84
+    Caption = 'Exit'
+    Font.Color = clRed
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 1
+    OnClick = Button2Click
+  end
+end

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/local/bin/fpc" Date="1621181457"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -k-framework -kCocoa -l -vewnhibq &quot;-Fi/Users/maryday/Desktop/утопия/мдк 05.02 ег/lazarus /zadanie3/lib/x86_64-darwin&quot; -Fu/Users/maryday/.lazarus/lib/units/x86_64-darwin/cocoa -Fu/Users/maryday/.lazarus/lib/LCLBase/units/x86_64-darwin -Fu/Users/maryday/.lazarus/lib/freetypelaz/lib/x86_64-darwin -Fu/Users/maryday/.lazarus/lib/LazUtils/lib/x86_64-darwin -Fu/Users/maryday/.lazarus/lib/units/x86_64-darwin &quot;-Fu/Users/maryday/Desktop/утопия/мдк 05.02 ег/lazarus /zadanie3/&quot; &quot;-FU/Users/maryday/Desktop/утопия/мдк 05.02 ег/lazarus /zadanie3/lib/x86_64-darwin/&quot; &quot;-FE/Users/maryday/Desktop/утопия/мдк 05.02 ег/lazarus /zadanie3/&quot; &quot;-o/Users/maryday/Desktop/утопия/мдк 05.02 ег/lazarus /zadanie3/project1&quot; -dLCL -dLCLcocoa project1.lpr"/>
+</CONFIG>
